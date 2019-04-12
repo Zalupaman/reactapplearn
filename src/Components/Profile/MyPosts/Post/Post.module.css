@@ -1,0 +1,7 @@
+.Item{
+   margin: 20px 0;
+}
+.Item img{
+    width: 50px;
+    border-radius: 25px ;
+}

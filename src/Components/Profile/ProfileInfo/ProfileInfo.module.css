@@ -1,0 +1,7 @@
+.infoimg {
+    overflow: hidden;
+    height: 300px;
+    padding: 10px;
+    background-image: url("http://волжский.смсыч.рф/storage/mts.png");
+    background-size: cover;
+}
