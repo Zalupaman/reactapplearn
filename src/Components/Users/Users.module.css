@@ -1,0 +1,33 @@
+.avatarPhoto{
+    width:50px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.avaFollow{
+    width: 10%;
+}
+.avaFollow button{
+    outline: none;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    color:red;
+    font-weight: 600;
+
+}
+
+button:hover{
+    border-top:1px solid grey;
+    border-left:1px solid grey;
+    transform: translateY(1px);
+}
+
+.information{
+    width: 30%;
+    margin-left: 10px;
+}
+.users{
+    border: 1px solid lightgrey;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
